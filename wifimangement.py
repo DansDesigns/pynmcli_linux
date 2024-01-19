@@ -39,7 +39,7 @@ def interface_list():
 	i=os.listdir("/sys/class/net/")
 	return i
 def interface_status():
-	in_s=os.popen("nmcli dev status").read()
+	in_s=os.popen("nmcli -t dev status").read()
 	in_s.replace(r"\n", " \n ")
 	return in_s
 def interface_config(i=""):
