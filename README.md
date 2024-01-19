@@ -17,8 +17,8 @@ Its give **_full acces_** in python to **_handle system wifi_**.
 
 ## Installation
 Open **terminal**
-``` bash
-sudo pip3 install wifimangement_linux
+```
+clone the repository
 ```
 
 # Function
