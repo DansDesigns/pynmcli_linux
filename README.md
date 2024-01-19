@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![Python 3.9](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 its only and only for **Linux and Unix** ,work with [Nmcli](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-network_bridging_using_the_networkmanager_command_line_tool_nmcli0) .
 basic wifi or network tool controlling with python
 
@@ -114,7 +114,7 @@ its print all saved wifi and password in nice table format
 wifi.printpsk()
 ```
 ## License
-[![](https://img.shields.io/github/license/prajwalkedari/wifi-password?style=plastic)](https://github.com/prajwalkedari/wifimangement_linux/blob/main/LICENSE)
+[![](https://img.shields.io/github/license/prajwalkedari/wifi-password?style=plastic)]([https://github.com/prajwalkedari/wifimangement_linux/blob/main](https://github.com/DansDesigns/pynmcli_linux/edit/main)/LICENSE)
 ## Requirement
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
