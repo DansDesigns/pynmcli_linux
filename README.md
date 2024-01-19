@@ -18,7 +18,7 @@ Its give **_full acces_** in python to **_handle system wifi_**.
 ## Installation
 Open **terminal**
 ```
-clone the repository
+clone the repository & put the .py file in your python program root dir..
 ```
 
 # Function
